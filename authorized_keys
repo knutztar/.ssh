@@ -1,4 +1,4 @@
 # Indsæt med crontab -e
-# */5 * * * * cd /root/.ssh && git pull
+# */5 * * * * cd /root/.ssh/ && git pull
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrZXzYQZpqtwGmiLcnWHM3hmemmM9L9accl/sIA8ZSuKuwF0eFIaxUNbIscQCj2sl8Bfvi8ZMXIcapX1VV1Yxd/RN0o8LdfkgGJh79MAImaPoeM13COMomv4vLCTgEhdrrMkBrvVo+gGte6JIJZivCsgeHLXmfPoToojwX4/SXMveQCQAv7thb8Ss3wBo+gg2Z/QvScBDjjByB3YMSuv03j5gWS6GdIAuU6/nyb3mTXcOiPSTCxamnCPftvuOPp8gLMgqg+eCbQo2RwrFFeO7JBI3iwnUD5N3WmIhpQB+gvJiim5rq3rZT6//7VV3E49a8ISWvEmYV6oTZxDIzg0qbJhCdRXnVTuuUxD5WNi82d0nDC73pqx66Zm1JQgioM82na2K7ppGQkNeu9z+bFhfgtZ/n5f7MlCoL8uSf7DE+R/BU6erCLnE9Zdt58O/6N+Y7GZF0uHNBtwJr2iTqDnhm3h7WEr5f6C1cw95VbPKM34v3SdfmijUDenfI/i1GSjk= knutz@laptop-dell
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPK+a3fDs27ukJmPIx1+8Lhqolu8pAG6rJjOVQ929z2h66631udJ3YIF/SfnlfoOpAshJ1258WtB9j4u+zOVP20pgKMEuVAsrXIwtnnLkc2aulhZhW1R/tMinhiNLHKW758GnPzVBKD7rR9deWI+k2E3HhJVWFMCBQMhLV6pUgQ4ABR2C9j/6/+6SjkTZ2QArfKBtfQ5sjstMs2vNaVuCpYWpyjQh0h3E407yR11KuItwelbzLLQx5Bd0iJeO1kem755OKJGNvyKLLidhXtb2nktw4fQdQPibsL0ij//ULZrWR5ockm2N0Z6x5zktsuxT2SaU7Vfru4eqGt/yEMcst knutz@firma-vm-opensuse
